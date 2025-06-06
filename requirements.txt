@@ -16,6 +16,7 @@ matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
 numpy==2.2.6
 packaging==25.0
+pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.8
@@ -29,9 +30,11 @@ pytest==8.3.5
 pytest-cov==6.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
+pytz==2025.2
 pyzmq==26.4.0
 six==1.17.0
 stack-data==0.6.3
 tornado==6.4.2
 traitlets==5.14.3
+tzdata==2025.2
 wcwidth==0.2.13
